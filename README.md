@@ -15,6 +15,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | D. E. Shaw | Systems Engineer | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925) |
 | DV Trading | Software Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) |
 | DV Trading | Trading Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) |
+| Five Rings | Software Developer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008) |
+| Five Rings | Quantitative Trader | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008) |
 | HRT | Software Engineer | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) |
 | HRT | Algorithm Development (Quant Research & Trading) | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) |
 | HRT | Algorithm Development (Quant Research & Trading) PhD | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2027/) |
