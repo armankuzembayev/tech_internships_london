@@ -22,6 +22,10 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | HRT | Algorithm Development (Quant Research & Trading) | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) |
 | HRT | Algorithm Development (Quant Research & Trading) PhD | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2027/) |
 | Optiver | Software Engineer | [Apply](https://www.optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/) |
+| Palantir | Software Engineer | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) |
+| Palantir | Software Engineer Infrastructure | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
+| Palantir | Forward Deployed Software Engineer | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) |
+| Palantir | Forward Deployed Software Engineer | [Apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) |
 | Samsara | Software Engineer | [Apply](https://www.samsara.com/uk/company/careers/roles/8082093) |
 | Susquehanna | Trading Systems Engineer | [Apply](https://careers.sig.com/intern-co-op/jobs/11334) |
 | Susquehanna | Quantitative Strategy Developer | [Apply](https://careers.sig.com/intern-co-op/jobs/11333) |
