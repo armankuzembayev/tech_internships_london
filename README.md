@@ -13,6 +13,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Company | Position | Link |
 | -------- | -------- | -------- |
 | D. E. Shaw | Systems Engineer | [Apply](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925) |
+| Deductive AI | Software Engineer | [Apply](https://jobs.ashbyhq.com/deductive/ad89510a-6a8d-4376-8bc1-32d409e30c09) |
 | DV Trading | Software Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) |
 | DV Trading | Trading Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) |
 | Five Rings | Software Developer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008) |
