@@ -20,6 +20,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | HRT | Software Engineer | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) |
 | HRT | Algorithm Development (Quant Research & Trading) | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) |
 | HRT | Algorithm Development (Quant Research & Trading) PhD | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2027/) |
+| Optiver | Software Engineer | [Apply](https://www.optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/) |
 | Susquehanna | Trading Systems Engineer | [Apply](https://careers.sig.com/intern-co-op/jobs/11334) |
 | Susquehanna | Quantitative Strategy Developer | [Apply](https://careers.sig.com/intern-co-op/jobs/11333) |
 | Revolut | Software Engineer (Java) | [Apply](https://www.revolut.com/careers/position/internship-programme-2027-software-engineer-java-a9cd5545-7d52-4e8f-bce9-1b67343ccc11/) |
